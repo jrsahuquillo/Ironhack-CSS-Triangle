@@ -6,4 +6,6 @@
 	border-right:300px solid transparent;
 	border-bottom: 300px solid green;
 	
+	/* Quarter of a circle*/
+	border-radius: 50%; 	
 }
